@@ -15,4 +15,4 @@
 
 ## Блок-схема алгоритма
 
-![Picture](Project/Scheme.jpg)
+![Picture](Scheme.jpg)
