@@ -5,3 +5,6 @@
     "world",
     ":-)",
 };
+
+string[] result = new string[array.Length];
+int rezultSize = 0;
